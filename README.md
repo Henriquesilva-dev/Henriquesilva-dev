@@ -22,12 +22,13 @@ Sou comunicativo, organizado, pontual, focado e tenho facilidade em aprender.
 
 ## 📂 Meus Projetos
 
-1. **[Projeto 1](https://github.com/Henriquesilva-dev/we-care)** - Esse foi um projeto que tive meu primeiro contato com responsividade.
-2. **[Projeto 2](https://github.com/Henriquesilva-dev/Convert-money)** - Primeiro vez no Java Script ja desenvolvi esse site
-3. **[Projeto 3](https://github.com/Henriquesilva-dev/sorteador)** - Esse projeto foi apenas uma aula introdutoria sobre **random**
+1. **[We Care](https://github.com/Henriquesilva-dev/we-care)** - Esse foi um projeto que tive meu primeiro contato com responsividade.
+2. **[Convert Money](https://github.com/Henriquesilva-dev/Convert-money)** - Primeiro vez no Java Script ja desenvolvi esse site
+3. **[Sorteador](https://github.com/Henriquesilva-dev/sorteador)** - Esse projeto foi apenas uma aula introdutoria sobre **random**
 
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-henrique-soares/)
+
 
 💡 Sempre buscando aprender mais e evoluir na área de tecnologia!
