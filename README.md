@@ -1,6 +1,12 @@
 # Olá! Eu sou [Seu Nome] 👋
 
-## 🚀 Sobre mim
+## 🚀 Olá me chamo José Henrique, tenho 19 anos e estou à procura de uma oportunidade na área de desenvolvimento web ou programação.
+
+Tive o primeiro contato com programação no colégio. Meu primeiro site foi assitindo uma videoaula no Youtube e fiquei de olhos brilhando pelos codigos, desde então estou focado a aprender mais e mais.
+
+Estou cursando uma formação de Programadores, o DevClub, nele estou aprimorando em tecnologias como, HTML, CSS, Java Script, React e Node.
+
+Sou comunicativo, organizado, pontual, focado e tenho facilidade em aprender.
 
 - 💻 Estudante de desenvolvimento web no **DevClub** desde janeiro.
 - 📚 Aprendendo **HTML, CSS, JavaScript, React e Git**.
