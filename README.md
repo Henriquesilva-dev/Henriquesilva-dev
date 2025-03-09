@@ -1,4 +1,4 @@
-# Olá! Eu sou [José Henrique] 👋
+# Olá! Eu sou **José Henrique** 👋
 
 ## 🚀 Olá me chamo José Henrique, tenho 19 anos e estou à procura de uma oportunidade na área de desenvolvimento web ou programação.
 
